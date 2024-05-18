@@ -1,0 +1,4 @@
+Algorithm,Accuracy (R^2 Score),Mean Squared Error (MSE)
+Linear Regression,0.8629132245229483,711.056385851786
+Support Vector Regressor,0.6699613938761007,1711.8796298575546
+KNeighborsRegressor,0.7187135507772786,1459.006715107044
